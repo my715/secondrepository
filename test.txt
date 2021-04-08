@@ -1,1 +1,1 @@
-Hello welcome to git .
+Hello welcome to git . git is vcs amd git hub is a scm
